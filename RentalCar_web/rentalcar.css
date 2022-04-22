@@ -1,0 +1,13 @@
+.card{
+    margin: 5px;
+    padding: 10px;
+    background-color:#ffcc99;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    background-color: #000;
+    color: #fff;
+}
